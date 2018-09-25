@@ -1,0 +1,36 @@
+_repo: The-Courtship-of-Miles-Standish-With-Suggestions-for-Study-and-Notes_57417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+  editor:
+    agent_name: Pearson, P. H. (Peter Henry)
+    alias: Pearson, Peter Henry
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '49373'
+    url: http://www.gutenberg.org/2009/agents/49373
+description: ''
+gutenberg_issued: '2018-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Standish, Myles, 1584?-1656 -- Poetry'
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691 -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: 'The Courtship of Miles Standish:
+
+  With Suggestions for Study and Notes'
+url: http://www.gutenberg.org/ebooks/57417
